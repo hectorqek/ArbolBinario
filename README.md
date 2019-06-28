@@ -16,6 +16,8 @@ Request:
     "36"
   ]
 }
+
+
 Api2: Url
 http://localhost:64330/api/TreeBinary/ParentNode
 Request:
